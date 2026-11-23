@@ -33,7 +33,7 @@ You need [Claude Code](https://code.claude.com), [Figwright](https://github.com/
 **2. Install.** In Claude Code, run the commands below and paste the token when prompted.
 
 ```text
-/plugin marketplace add solon-joinx/figwright-draft-guard
+/plugin marketplace add solonlin268/figwright-draft-guard
 /plugin install fdg@figwright-draft-guard-marketplace
 ```
 
